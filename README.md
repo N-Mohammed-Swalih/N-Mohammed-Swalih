@@ -26,6 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://fb.com/mohd swalih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohd swalih" height="30" width="40" /></a>
 <a href="https://twitter.com/nmohammedswalih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nmohammedswalih" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nmohdswalih003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="n mohammed swalih" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20091098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20091098" height="30" width="40" /></a>
