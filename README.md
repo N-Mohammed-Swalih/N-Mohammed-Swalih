@@ -9,7 +9,9 @@
 
 - 📫 How to reach me **mohdswalih003@gmail.com**
 
-- 📄 My resume:"https://drive.google.com/file/d/1Bwv34sr1ZQY0jmNBEYJKfW_C7eWTwitq/view?usp=sharing"
+- 📄 My resume:
+
+https://drive.google.com/file/d/1Bwv34sr1ZQY0jmNBEYJKfW_C7eWTwitq/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
