@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Bwv34sr1ZQY0jmNBEYJKfW_C7eWTwitq/view?usp=drive_link](https://drive.google.com/file/d/1Bwv34sr1ZQY0jmNBEYJKfW_C7eWTwitq/view?usp=drive_link)
 
-- ⚡ Interests **Cars 🏎,Technology🧑🏻‍💻,Entrepreneurship💸**
+- ⚡ Interest in **Cars 🏎,Technology🧑🏻‍💻,Entrepreneurship💸**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
