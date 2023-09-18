@@ -1,12 +1,10 @@
 <!-- [![MasterHead](https://pasinfotech.com/wp-content/uploads/2019/06/flutter-banner.jpg)](https://www.linkedin.com/in/shihab-k-saleem-3b526a151/) -->
 <h1 align="center">Hi 👋, I'm N Mohammed Swalih Here!</h1>
 <h3 align="center">A Passionate Flutter Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&usqp=CAU">
 
-<p align="left"> <img src="" alt="nmohammedswalih" /> </p>
-
-- 🌱 I’m currently learning **Flutter**
-
+- 💻 Flutter Deevloper Intern @ **Luminar Technolabs**
+  
 - 💬 Ask me about **Mobile Application Development**
 
 - 📫 How to reach me **mohdswalih003@gmail.com**
