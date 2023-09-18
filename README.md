@@ -1,11 +1,11 @@
 <h1 align="center">Hello Everyone🤚🏼,N Mohammed Swalih here!</h1>
 <h3 align="center">A Passionate Flutter Developer💻</h3>
 
-<img alt="Coding" width="500" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-mohammed-swalih&label=Profile%20views&color=0e75b6&style=flat" alt="n-mohammed-swalih" /> </p>
 
 
+<img alt="Coding" width="500" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 <p align="left"> <a href="https://twitter.com/nmohammedswalih" target="blank"><img src="https://img.shields.io/twitter/follow/nmohammedswalih?logo=twitter&style=for-the-badge" alt="nmohammedswalih" /></a> </p>
 
 - 🔭 I’m currently working on [Mtc Grocery Market](https://github.com/N-Mohammed-Swalih/Mtc_Grocery_Store)
