@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Mobile App Development**
 
-- 📫 How to reach me **mohdswalih003@gmail.com**
+- 📫 Reach me on **mohdswalih003@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Bwv34sr1ZQY0jmNBEYJKfW_C7eWTwitq/view?usp=drive_link](https://drive.google.com/file/d/1Bwv34sr1ZQY0jmNBEYJKfW_C7eWTwitq/view?usp=drive_link)
 
