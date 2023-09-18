@@ -1,7 +1,7 @@
 <h1 align="center">Hello Everyone🤚🏼,N Mohammed Swalih here!</h1>
 <h3 align="center">A Passionate Flutter Developer💻</h3>
 
-<img align="center" alt="Coding" width="900" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+<img alt="Coding" width="900" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-mohammed-swalih&label=Profile%20views&color=0e75b6&style=flat" alt="n-mohammed-swalih" /> </p>
 
