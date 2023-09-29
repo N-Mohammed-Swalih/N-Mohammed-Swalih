@@ -20,7 +20,7 @@
 
 - 📫 Reach me on **mohdswalih003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mT6Aqe_79RkhuWku-I_N3cOjceyCh0eS/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1mT6Aqe_79RkhuWku-I_N3cOjceyCh0eS/view?usp=drive_link
 
 - ⚡ Interest in **Cars 🏎,Technology🧑🏻‍💻,Entrepreneurship💸**
 
