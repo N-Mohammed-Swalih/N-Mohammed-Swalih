@@ -22,6 +22,8 @@
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1mT6Aqe_79RkhuWku-I_N3cOjceyCh0eS/view?usp=drive_link
 
+- Recently added projects are available in the library of Luminar Assignment Repository
+
 - ⚡ Interest in **Cars 🏎,Technology🧑🏻‍💻,Entrepreneurship💸**
 
 <h3 align="left">Connect with me:</h3>
