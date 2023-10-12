@@ -41,6 +41,19 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n-mohammed-swalih&show_icons=true&locale=en&layout=compact" alt="n-mohammed-swalih" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n-mohammed-swalih&show_icons=true&locale=en" alt="n-mohammed-swalih" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n-mohammed-swalih&" alt="n-mohammed-swalih" /></p>
+
+
+
+
+<h1> Recent Work</h1>
+![Screenshot (727)](https://github.com/N-Mohammed-Swalih/N-Mohammed-Swalih/assets/137269292/af3e1cf3-d493-41b1-80ab-a24f6c8338b6)
+![Screenshot (719)](https://github.com/N-Mohammed-Swalih/N-Mohammed-Swalih/assets/137269292/eb177134-37e9-4431-9563-08b2e3014d9b)
+![Screenshot (720)](https://github.com/N-Mohammed-Swalih/N-Mohammed-Swalih/assets/137269292/4578c105-6dfa-47d1-96d9-c72b77d71f62)
+![Screenshot (721)](https://github.com/N-Mohammed-Swalih/N-Mohammed-Swalih/assets/137269292/25b7634d-9c8e-4e9b-8f35-2e541c8f307a)
+![Screenshot (722)](https://github.com/N-Mohammed-Swalih/N-Mohammed-Swalih/assets/137269292/176f2c1a-82fa-4199-838d-0b81ef643975)
+![Screenshot (723)](https://github.com/N-Mohammed-Swalih/N-Mohammed-Swalih/assets/137269292/d24d37a7-9fa3-4697-b4c5-ed633c283e45)
+![Screenshot (725)](https://github.com/N-Mohammed-Swalih/N-Mohammed-Swalih/assets/137269292/8d0b2006-7858-41af-ba49-b138ecdce897)
+![Screenshot (726)](https://github.com/N-Mohammed-Swalih/N-Mohammed-Swalih/assets/137269292/bff7baeb-aa57-4581-a296-b407196a5bb9)
+
 
