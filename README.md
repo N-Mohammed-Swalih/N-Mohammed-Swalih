@@ -54,9 +54,10 @@
 <img align="center" src= "https://github.com/N-Mohammed-Swalih/N-Mohammed-Swalih/assets/137269292/176f2c1a-82fa-4199-838d-0b81ef643975" height="300" width="160">
 <img align="center" src= "https://github.com/N-Mohammed-Swalih/N-Mohammed-Swalih/assets/137269292/d24d37a7-9fa3-4697-b4c5-ed633c283e45" height="300" width="160">
 <img align="center" src= "https://github.com/N-Mohammed-Swalih/N-Mohammed-Swalih/assets/137269292/8d0b2006-7858-41af-ba49-b138ecdce897" height="300" width="160">
-<br>
+<p>
 <img align="center" src= "https://github.com/N-Mohammed-Swalih/N-Mohammed-Swalih/assets/137269292/bff7baeb-aa57-4581-a296-b407196a5bb9" height="300" width="160">
 <img align="center" src= "https://github.com/N-Mohammed-Swalih/N-Mohammed-Swalih/assets/137269292/af3e1cf3-d493-41b1-80ab-a24f6c8338b6" height="300" width="160">
+</p>
 
 
 
