@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Debongo Shoe App](https://github.com/N-Mohammed-Swalih/Debongo_Shoe_App)
 
-- 💻 I’m currently learning **Flutter,Dart,etc..**
+- 💻 I’m Having good knowledge in **Flutter,Dart,GetX,Provider,Firebase,Hive,Api Integration,Github,etc..**
 
 - 🏢I’m working as intern at **Luminar Technolabs**
 
