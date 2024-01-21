@@ -20,7 +20,7 @@
 
 - 📫 Reach me on **mohdswalih003@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1mT6Aqe_79RkhuWku-I_N3cOjceyCh0eS/view?usp=drive_link
+- 📄 Know about my experiences https://drive.google.com/file/d/1xRhpPu5DD8R1bnALsn-PC1BkA1rVFygo/view?usp=drive_link
 
 - Recently added projects are available in the library of Luminar Assignment Repository
 
